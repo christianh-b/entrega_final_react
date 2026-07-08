@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop UltraSlim Pro",
+    "precio": 1299.99,
+    "descripcion": "Laptop de alto rendimiento con pantalla 15.6\" 4K, procesador Intel i7 de última generación y 16GB de RAM DDR5.",
+    "categoria": "computacion",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Auriculares Bluetooth NoiseX",
+    "precio": 249.99,
+    "descripcion": "Auriculares inalámbricos con cancelación activa de ruido, 30 horas de batería y sonido premium Dolby Atmos.",
+    "categoria": "audio",
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "nombre": "Smartphone Galaxy Z",
+    "precio": 899.99,
+    "descripcion": "Smartphone de última generación con cámara triple de 108MP, pantalla AMOLED 120Hz y conectividad 5G.",
+    "categoria": "smartphones",
+    "imagen": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch FitPro 5",
+    "precio": 199.99,
+    "descripcion": "Reloj inteligente con GPS integrado, monitor cardíaco 24/7, oxímetro de pulso y 7 días de autonomía.",
+    "categoria": "wearables",
+    "imagen": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "nombre": "Tablet ArtPad 11",
+    "precio": 649.99,
+    "descripcion": "Tablet profesional de 11\" con stylus incluido, ideal para diseño gráfico, ilustración y toma de notas.",
+    "categoria": "computacion",
+    "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "nombre": "Cámara Mirrorless ProShot",
+    "precio": 1099.99,
+    "descripcion": "Cámara sin espejo de 24MP con video 4K a 60fps, estabilización óptica de 5 ejes y lente intercambiable.",
+    "categoria": "fotografia",
+    "imagen": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 8
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor Curvo 34\"",
+    "precio": 549.99,
+    "descripcion": "Monitor ultrawide curvo 34\" WQHD con frecuencia de actualización de 144Hz, panel IPS y FreeSync Premium.",
+    "categoria": "computacion",
+    "imagen": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=400&h=300&q=80",
+    "stock": 12
+  },
+  {
+    "id": 8,
+    "nombre": "Teclado Mecánico RGBolt",
+    "precio": 129.99,
+    "descripcion": "Teclado mecánico RGB con switches Cherry MX Red, diseño tenkeyless compacto y cable USB-C desmontable.",
+    "categoria": "perifericos",
+    "imagen": "https://loremflickr.com/400/300/keyboard?lock=88",
+    "stock": 40
+  }
+]
